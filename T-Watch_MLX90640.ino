@@ -20,7 +20,7 @@ int R_colour, G_colour, B_colour;              // RGB-Farbwert
 int i, j;                                      // Zählvariable
 float T_max, T_min;                            // maximale bzw. minimale gemessene Temperatur
 float T_center;                                // Temperatur in der Bildschirmmitte
-uint16_t tft_width  = 240;                     // ST7789_TFTWIDTH;
+uint16_t tft_width  = 320;                     // ST7789_TFTWIDTH;
 uint16_t tft_height = 240;                     // ST7789_TFTHEIGHT;
 
 
